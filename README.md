@@ -1,6 +1,6 @@
-# RealGM-International-Transactions-Database
+# International-Transactions-Database
 
-A database of all transactions of international basketball team from 2012 - 2019
+A database of all transactions of international basketball teams from 2012 - 2019
 
 # Running Main_Program
 
@@ -24,4 +24,4 @@ There is a send_query(query) function in TransactionsDB.py. It takes a query as 
 
 I really tried to do the bonus portion of this project, but my time was needed for another project. So I created functions that query the database and print its output to an HTML file. The queries for these HTML files are located at the bottom of TransactionsDB.py. These HTML files can be viewed by going to HTML_File_Outputs folder. You can compares these HTML files to the RealGM website and find that they have the same results.
 
-If you ran Main_Program.py, you'll want to uncomment the functions on line 374, 385, and 396 and run the TransactionsDB.py file to re-generate the HTML files with updated transactions.
+If you ran Main_Program.py, you'll want to uncomment the functions on line 376, 387, and 398 and run the TransactionsDB.py file to re-generate the HTML files with updated transactions.
